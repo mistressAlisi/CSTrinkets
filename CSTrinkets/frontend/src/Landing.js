@@ -38,9 +38,7 @@ function Landing() {
       <ListGroup.Item action href="https://ply.ooo" target="_blank" variant="dark">
         Visit my Photo Gallery
       </ListGroup.Item>
-      <ListGroup.Item action variant="dark">
-        This one is a button
-      </ListGroup.Item>
+
     </ListGroup>
       </header>
 
