@@ -15,9 +15,6 @@ import InputGroup from 'react-bootstrap/InputGroup';
 import axios from 'axios';
 
 // Import our stuff:
-import Trie_example from './Trie_example.svg.png';
-import knightmoves from './knightmoves.png';
-import './Instructions.css';
 import MatrixForm from './MatrixForm.js';
 
 
@@ -68,6 +65,7 @@ export default class Tryme extends Component {
   render() {
     return(
     <React.Fragment>
+    <Container>
           <ThemeProvider
   breakpoints={['xxxl', 'xxl', 'xl', 'lg', 'md', 'sm', 'xs', 'xxs']}
   minBreakpoint="xxs"
@@ -132,7 +130,7 @@ export default class Tryme extends Component {
 
         <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label><strong>Timing/Performance Analysis:</strong></Form.Label>
-        <Form.Control as="textarea" placeholder="Execute first!" value={this.state.debug} readOnly />
+        <Form.Control as="textarea" placeholder="Execute first!" rows="18" value={this.state.debug} readOnly />
         </Form.Group>
         </Card.Body>
         </Card>
@@ -142,6 +140,7 @@ export default class Tryme extends Component {
   </div>
   </form>
   </ThemeProvider>
+  </Container>
   </React.Fragment>
 
     )

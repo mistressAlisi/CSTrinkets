@@ -2,11 +2,13 @@ import React, { Component } from 'react';
 import './Instructions.css';
 import Trie_example from './Trie_example.svg.png';
 import knightmoves from './knightmoves.png';
+import Container from 'react-bootstrap/Container';
 export default class Instructions extends Component {
 
   render() {
     return(
     <React.Fragment>
+    <Container>
     <div class="card-body">
     <h2>Welcome to the Knight's tour!</h2>
     <p><em>
@@ -28,6 +30,7 @@ export default class Instructions extends Component {
     In order to keep the algorithm fast, efficient and without doing a lot of deep recursion, the solution was implemented using a recursive chess walker defined in "run_knights_tour" and "get_moves". The total Big O execution time of the Knights tour is O(n), where n is the length of the maximum string. (We could be pedantic and say it is O(64n) because of the 8x8 board, but this is a worst-case scenario; and the constant matrix size will not dominate the Trie size.)
     </p>
     </div>
+    </Container>
     </React.Fragment>
     )
   }

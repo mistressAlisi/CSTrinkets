@@ -1,19 +1,19 @@
-.App {
+.KnightsTour {
   text-align: center;
 }
 
-.App-logo {
+.KnightsTour-logo {
   height: 10vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    //animation: App-logo-spin infinite 20s linear;
+  .KnightsTour-logo {
+    //animation: KnightsTour-logo-spin infinite 20s linear;
   }
 }
 
-.App-header {
+.KnightsTour-header {
   background-color: #282c34;
   min-height: 3vh;
   display: flex;
@@ -24,11 +24,11 @@
   color: white;
 }
 
-.App-link {
+.KnightsTour-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
+@keyframes KnightsTour-logo-spin {
   from {
     transform: rotate(0deg);
   }
