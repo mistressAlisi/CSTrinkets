@@ -1,4 +1,5 @@
-
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import logo from './logo.svg';
 import './Landing.css';
@@ -34,6 +35,9 @@ function Landing() {
       </ListGroup.Item>
       <ListGroup.Item action href="https://github.com/mistressAlisi/" target="_blank" variant="dark">
         Visit my GitHub
+      </ListGroup.Item>
+      <ListGroup.Item action href="https://delta9.ooo" target="_blank" variant="dark">
+        Visit the Delta9 Website
       </ListGroup.Item>
       <ListGroup.Item action href="https://ply.ooo" target="_blank" variant="dark">
         Visit my Photo Gallery
