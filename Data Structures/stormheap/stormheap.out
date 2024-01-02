@@ -1,0 +1,21 @@
+<---*****--->
+Initial Array - pre-heapsort:
+Storm Array: Item 0: Storm: JUAN - Cost: $1.5B
+Storm Array: Item 1: Storm: KATRINA - Cost: $108.0B
+Storm Array: Item 2: Storm: CHARLEY - Cost: $15.11B
+Storm Array: Item 3: Storm: DOLLY - Cost: $1.05B
+Storm Array: Item 4: Storm: CELIA - Cost: $0.93B
+Storm Array: Item 5: Storm: FRAN - Cost: $4.16B
+Storm Array: Item 6: Storm: IVAN - Cost: $18.82B
+Storm Array: Item 7: Storm: CAMILLE - Cost: $1.42B
+<---*****--->
+MinHeap sort....
+Storm Array: Item 0: Storm: CELIA - Cost: $0.93B
+Storm Array: Item 1: Storm: DOLLY - Cost: $1.05B
+Storm Array: Item 2: Storm: CAMILLE - Cost: $1.42B
+Storm Array: Item 3: Storm: JUAN - Cost: $1.5B
+Storm Array: Item 4: Storm: FRAN - Cost: $4.16B
+Storm Array: Item 5: Storm: CHARLEY - Cost: $15.11B
+Storm Array: Item 6: Storm: IVAN - Cost: $18.82B
+Storm Array: Item 7: Storm: KATRINA - Cost: $108.0B
+<---*****--->

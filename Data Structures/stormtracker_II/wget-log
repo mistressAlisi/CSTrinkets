@@ -1,0 +1,6 @@
+--2023-10-09 16:43:05--  https://inst-fs-iad-prod.inscloudgate.net/files/16cea3bd-32b5-4936-9372-e6638b629b7a/CSCI211_A5.pdf?download=1
+Resolving inst-fs-iad-prod.inscloudgate.net (inst-fs-iad-prod.inscloudgate.net)... 34.203.48.229, 35.173.0.239, 3.219.110.120, ...
+Connecting to inst-fs-iad-prod.inscloudgate.net (inst-fs-iad-prod.inscloudgate.net)|34.203.48.229|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.

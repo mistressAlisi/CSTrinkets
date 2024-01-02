@@ -1,0 +1,157 @@
+Randomly generating J-Numbers...
+***Hash Function ~~Default Hash~~***
+**Hash Perf Overview @ keysize: 10 for Array size 20:
+*** Total Hash function Performance: Total Collision count: 18 No Match: 2. No Collisions: 2
+
+**Collision to No-collision ratio: 0.1111111111111111**
+
+
+**Coverage - No-Match/Keysize ratio: 0.2**
+
+***Hash Function ~~Prime Hash~~***
+**Hash Perf Overview @ keysize: 10 for Array size 20:
+*** Total Hash function Performance: Total Collision count: 16 No Match: 1. No Collisions: 4
+
+**Collision to No-collision ratio: 0.25**
+
+
+**Coverage - No-Match/Keysize ratio: 0.1**
+
+***Hash Function ~~Poly Prime Hash~~***
+**Hash Perf Overview @ keysize: 10 for Array size 20:
+*** Total Hash function Performance: Total Collision count: 20 No Match: 3. No Collisions: 0
+
+**Coverage - No-Match/Keysize ratio: 0.3**
+
+***Hash Function ~~Default Hash~~***
+**Hash Perf Overview @ keysize: 20 for Array size 10:
+*** Total Hash function Performance: Total Collision count: 3 No Match: 12. No Collisions: 7
+
+**Collision to No-collision ratio: 2.3333333333333335**
+
+
+**Coverage - No-Match/Keysize ratio: 0.6**
+
+***Hash Function ~~Prime Hash~~***
+**Hash Perf Overview @ keysize: 20 for Array size 10:
+*** Total Hash function Performance: Total Collision count: 0 No Match: 10. No Collisions: 10
+
+**Coverage - No-Match/Keysize ratio: 0.5**
+
+***Hash Function ~~Poly Prime Hash~~***
+**Hash Perf Overview @ keysize: 20 for Array size 10:
+*** Total Hash function Performance: Total Collision count: 4 No Match: 12. No Collisions: 6
+
+**Collision to No-collision ratio: 1.5**
+
+
+**Coverage - No-Match/Keysize ratio: 0.6**
+
+***Hash Function ~~Default Hash~~***
+**Hash Perf Overview @ keysize: 127 for Array size 100:
+*** Total Hash function Performance: Total Collision count: 92 No Match: 95. No Collisions: 8
+
+**Collision to No-collision ratio: 0.08695652173913043**
+
+
+**Coverage - No-Match/Keysize ratio: 0.7480314960629921**
+
+***Hash Function ~~Prime Hash~~***
+**Hash Perf Overview @ keysize: 127 for Array size 100:
+*** Total Hash function Performance: Total Collision count: 55 No Match: 60. No Collisions: 45
+
+**Collision to No-collision ratio: 0.8181818181818182**
+
+
+**Coverage - No-Match/Keysize ratio: 0.47244094488188976**
+
+***Hash Function ~~Poly Prime Hash~~***
+**Hash Perf Overview @ keysize: 127 for Array size 100:
+*** Total Hash function Performance: Total Collision count: 57 No Match: 60. No Collisions: 43
+
+**Collision to No-collision ratio: 0.7543859649122807**
+
+
+**Coverage - No-Match/Keysize ratio: 0.47244094488188976**
+
+***Hash Function ~~Default Hash~~***
+**Hash Perf Overview @ keysize: 512 for Array size 500:
+*** Total Hash function Performance: Total Collision count: 493 No Match: 470. No Collisions: 7
+
+**Collision to No-collision ratio: 0.014198782961460446**
+
+
+**Coverage - No-Match/Keysize ratio: 0.91796875**
+
+***Hash Function ~~Prime Hash~~***
+**Hash Perf Overview @ keysize: 512 for Array size 500:
+*** Total Hash function Performance: Total Collision count: 306 No Match: 194. No Collisions: 194
+
+**Collision to No-collision ratio: 0.6339869281045751**
+
+
+**Coverage - No-Match/Keysize ratio: 0.37890625**
+
+***Hash Function ~~Poly Prime Hash~~***
+**Hash Perf Overview @ keysize: 512 for Array size 500:
+*** Total Hash function Performance: Total Collision count: 304 No Match: 186. No Collisions: 196
+
+**Collision to No-collision ratio: 0.6447368421052632**
+
+
+**Coverage - No-Match/Keysize ratio: 0.36328125**
+
+***Hash Function ~~Default Hash~~***
+**Hash Perf Overview @ keysize: 1024 for Array size 1000:
+*** Total Hash function Performance: Total Collision count: 997 No Match: 979. No Collisions: 3
+
+**Collision to No-collision ratio: 0.003009027081243731**
+
+
+**Coverage - No-Match/Keysize ratio: 0.9560546875**
+
+***Hash Function ~~Prime Hash~~***
+**Hash Perf Overview @ keysize: 1024 for Array size 1000:
+*** Total Hash function Performance: Total Collision count: 623 No Match: 394. No Collisions: 377
+
+**Collision to No-collision ratio: 0.6051364365971108**
+
+
+**Coverage - No-Match/Keysize ratio: 0.384765625**
+
+***Hash Function ~~Poly Prime Hash~~***
+**Hash Perf Overview @ keysize: 1024 for Array size 1000:
+*** Total Hash function Performance: Total Collision count: 604 No Match: 374. No Collisions: 396
+
+**Collision to No-collision ratio: 0.6556291390728477**
+
+
+**Coverage - No-Match/Keysize ratio: 0.365234375**
+
+***Hash Function ~~Default Hash~~***
+**Hash Perf Overview @ keysize: 27000 for Array size 25000:
+*** Total Hash function Performance: Total Collision count: 24998 No Match: 26943. No Collisions: 2
+
+**Collision to No-collision ratio: 8.000640051204096e-05**
+
+
+**Coverage - No-Match/Keysize ratio: 0.9978888888888889**
+
+***Hash Function ~~Prime Hash~~***
+**Hash Perf Overview @ keysize: 27000 for Array size 25000:
+*** Total Hash function Performance: Total Collision count: 15372 No Match: 10999. No Collisions: 9628
+
+**Collision to No-collision ratio: 0.6263335935467083**
+
+
+**Coverage - No-Match/Keysize ratio: 0.4073703703703704**
+
+***Hash Function ~~Poly Prime Hash~~***
+**Hash Perf Overview @ keysize: 27000 for Array size 25000:
+*** Total Hash function Performance: Total Collision count: 15124 No Match: 10696. No Collisions: 9876
+
+**Collision to No-collision ratio: 0.6530018513620736**
+
+
+**Coverage - No-Match/Keysize ratio: 0.39614814814814814**
+

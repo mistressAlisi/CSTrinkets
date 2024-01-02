@@ -1,0 +1,19 @@
+***  Testing Dijkstra's  ~~ ***
+Distance of  Node  'a' from the source vertex: 0
+Distance of  Node  'b' from the source vertex: 3
+Distance of  Node  'c' from the source vertex: 1
+Distance of  Node  'd' from the source vertex: 2
+Distance of  Node  'e' from the source vertex: 4
+Distance of  Node  'f' from the source vertex: 4
+Distance of  Node  'g' from the source vertex: 3
+Performance: Algorithm R+T: 664958nS.
+***  ~~ Done!!  ~~ ***
+***  Testing Kruskal's  ~~ ***
+b - c: 2
+c - f: 2
+c - d: 3
+d - e: 3
+a - b: 4
+Performance: Algorithm R+T: 481886nS.
+***  ~~ Done!!  ~~ ***
+*** Total Perf: 1147934nS ***

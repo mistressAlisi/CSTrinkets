@@ -1,0 +1,69 @@
+INFO:root:CSV Source file: cyclones_1900_2010_bst.csv
+INFO:stormtree.main:parsing CSV file...
+INFO:stormtree.main:Creating a new node for Storm ['JUAN', '1985', '1', '1.50']
+INFO:stormtree.main:Inserted node for storm at level None
+INFO:stormtree.main:Creating a new node for Storm ['KATRINA', '2005', '3', '108.00']
+INFO:stormtree.main:Inserted node for storm at level 1
+INFO:stormtree.main:Creating a new node for Storm ['CHARLEY', '2004', '4', '15.11']
+INFO:stormtree.main:Inserted node for storm at level 2
+INFO:stormtree.main:Creating a new node for Storm ['DOLLY', '2008', '1', '1.05']
+INFO:stormtree.main:Inserted node for storm at level 1
+INFO:stormtree.main:Creating a new node for Storm ['CELIA', '1970', '3', '0.93']
+INFO:stormtree.main:Inserted node for storm at level 2
+INFO:stormtree.main:Creating a new node for Storm ['FRAN', '1996', '3', '4.16']
+INFO:stormtree.main:Inserted node for storm at level 3
+INFO:stormtree.main:Creating a new node for Storm ['IVAN', '2004', '3', '18.82']
+INFO:stormtree.main:Inserted node for storm at level 3
+INFO:stormtree.main:Creating a new node for Storm ['CAMILLE', '1969', '5', '1.42']
+INFO:stormtree.main:Inserted node for storm at level 2
+INFO:stormtree.classes:**Executing Pre-order Traversal***
+Storm JUAN, 1985, Damages: $1.5B
+Storm CELIA, 1970, Damages: $0.93B
+Storm DOLLY, 2008, Damages: $1.05B
+Storm CAMILLE, 1969, Damages: $1.42B
+Storm FRAN, 1996, Damages: $4.16B
+Storm CHARLEY, 2004, Damages: $15.11B
+Storm IVAN, 2004, Damages: $18.82B
+Storm KATRINA, 2005, Damages: $108.0B
+
+*****
+INFO:stormtree.classes:**Executing Post-order Traversal***
+Storm CELIA, 1970, Damages: $0.93B
+Storm DOLLY, 2008, Damages: $1.05B
+Storm CAMILLE, 1969, Damages: $1.42B
+Storm FRAN, 1996, Damages: $4.16B
+Storm CHARLEY, 2004, Damages: $15.11B
+Storm IVAN, 2004, Damages: $18.82B
+Storm KATRINA, 2005, Damages: $108.0B
+Storm JUAN, 1985, Damages: $1.5B
+
+*****
+INFO:stormtree.classes:**Executing in-order Traversal***
+Storm CELIA, 1970, Damages: $0.93B
+Storm DOLLY, 2008, Damages: $1.05B
+Storm CAMILLE, 1969, Damages: $1.42B
+Storm JUAN, 1985, Damages: $1.5B
+Storm FRAN, 1996, Damages: $4.16B
+Storm CHARLEY, 2004, Damages: $15.11B
+Storm IVAN, 2004, Damages: $18.82B
+Storm KATRINA, 2005, Damages: $108.0B
+
+*****
+INFO:stormtree.main:Executing BFT
+***Level 1***
+Hurricane JUAN, year: 1985, Category: 1; Cost: $1.5B
+**************
+***Level 2***
+Hurricane DOLLY, year: 2008, Category: 1; Cost: $1.05B
+Hurricane KATRINA, year: 2005, Category: 3; Cost: $108.0B
+**************
+***Level 3***
+Hurricane CELIA, year: 1970, Category: 3; Cost: $0.93B
+Hurricane CAMILLE, year: 1969, Category: 5; Cost: $1.42B
+Hurricane CHARLEY, year: 2004, Category: 4; Cost: $15.11B
+**************
+***Level 4***
+Hurricane FRAN, year: 1996, Category: 3; Cost: $4.16B
+Hurricane IVAN, year: 2004, Category: 3; Cost: $18.82B
+**************
+*****

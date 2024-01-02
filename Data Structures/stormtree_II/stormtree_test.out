@@ -1,0 +1,62 @@
+<---*****--->
+Traversals Test...
+Storm ISABEL, 2003, Damages: $5.37B
+Storm ELENA, 1985, Damages: $1.25B
+Storm CELIA, 1970, Damages: $0.93B
+Storm GLORIA, 1985, Damages: $0.9B
+Storm DOLLY, 2008, Damages: $1.05B
+Storm BOB, 1991, Damages: $1.5B
+Storm CAMILLE, 1969, Damages: $1.42B
+Storm OPAL, 1995, Damages: $5.14B
+Storm HUGO, 1989, Damages: $7.0B
+Storm FLOYD, 1999, Damages: $6.9B
+Storm JEANNE, 2004, Damages: $7.66B
+
+*****
+Storm GLORIA, 1985, Damages: $0.9B
+Storm CELIA, 1970, Damages: $0.93B
+Storm DOLLY, 2008, Damages: $1.05B
+Storm ELENA, 1985, Damages: $1.25B
+Storm CAMILLE, 1969, Damages: $1.42B
+Storm BOB, 1991, Damages: $1.5B
+Storm OPAL, 1995, Damages: $5.14B
+Storm FLOYD, 1999, Damages: $6.9B
+Storm HUGO, 1989, Damages: $7.0B
+Storm JEANNE, 2004, Damages: $7.66B
+Storm ISABEL, 2003, Damages: $5.37B
+
+*****
+Storm GLORIA, 1985, Damages: $0.9B
+Storm CELIA, 1970, Damages: $0.93B
+Storm DOLLY, 2008, Damages: $1.05B
+Storm ELENA, 1985, Damages: $1.25B
+Storm CAMILLE, 1969, Damages: $1.42B
+Storm BOB, 1991, Damages: $1.5B
+Storm OPAL, 1995, Damages: $5.14B
+Storm ISABEL, 2003, Damages: $5.37B
+Storm FLOYD, 1999, Damages: $6.9B
+Storm HUGO, 1989, Damages: $7.0B
+Storm JEANNE, 2004, Damages: $7.66B
+
+*****
+BFT/BFS Test...
+***Level 1***
+Hurricane ISABEL, year: 2003, Category: 2; Cost: $5.37B
+**************
+***Level 2***
+Hurricane ELENA, year: 1985, Category: 3; Cost: $1.25B
+Hurricane HUGO, year: 1989, Category: 4; Cost: $7.0B
+**************
+***Level 3***
+Hurricane CELIA, year: 1970, Category: 3; Cost: $0.93B
+Hurricane BOB, year: 1991, Category: 2; Cost: $1.5B
+Hurricane FLOYD, year: 1999, Category: 2; Cost: $6.9B
+Hurricane JEANNE, year: 2004, Category: 3; Cost: $7.66B
+**************
+***Level 4***
+Hurricane GLORIA, year: 1985, Category: 3; Cost: $0.9B
+Hurricane DOLLY, year: 2008, Category: 1; Cost: $1.05B
+Hurricane CAMILLE, year: 1969, Category: 5; Cost: $1.42B
+Hurricane OPAL, year: 1995, Category: 3; Cost: $5.14B
+**************
+<---*****--->

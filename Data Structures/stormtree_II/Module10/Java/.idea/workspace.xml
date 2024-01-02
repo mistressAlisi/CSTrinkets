@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="689b1920-c7f6-4100-acb9-1f36c67ee6ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Module1/Java/SearchAndSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AVL/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AVL/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedBlack/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedBlack/RedBlackTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module11/Java/Module10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module12/Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module13/Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module4/Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module6/Java/Module5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module7/Java/Module6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module9/Java/Module9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module9/Java/src/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module9/Java/src/BSTDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module9/Java/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/AllAlgorithms/Comparison.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/BubbleSort/BubbleSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/BubbleSort/BubbleSorts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/Classes/Bicycle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/Classes/BicycleDemo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/CocktailShakerSort/CocktailShakerSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/CocktailShakerSort/CocktailSorts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/InsertionSort/InsertionSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/InsertionSort/InsertionSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/Module0Workspace.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/SelectionSort/SelectionSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/CPP/SelectionSort/SelectionSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/SearchAndSort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Java/src/ArraySorting/ArraySort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Python/bicycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Python/bicycle_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module0/Python/insertion_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/CPP/BucketSort/BucketSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/CPP/BucketSort/BucketSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/CPP/CountingSort/CountingSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/CPP/CountingSort/CountingSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/CPP/RadixSort/RadixSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1/CPP/RadixSort/RadixSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/1_MinHeap/HeapTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/1_MinHeap/MinHeap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/1_MinHeap/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/2_Maxheap/HeapTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/2_Maxheap/MaxHeap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/2_Maxheap/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/3_Heapsort/HeapSortAsc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/3_Heapsort/HeapSortDesc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/3_Heapsort/MaxHeap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/3_Heapsort/MinHeap.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/3_Heapsort/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CPP/Module10Workspace.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module10/PriorityQueueExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module10/PriorityQueueExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Module10/TestObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriorityQueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriorityQueueExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python/priorityqueue..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module11/Java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module11/Java/src/AdjacencyList/ALGraphDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module11/Java/src/AdjacencyList/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module11/Java/src/AdjacencyMatrix/AMGraphDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module11/Java/src/AdjacencyMatrix/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module11/Java/src/DirectedGraph/DiGraphDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module11/Java/src/DirectedGraph/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module12/Java/src/DijkstrasAlgorithm/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module12/Java/src/DijkstrasAlgorithm/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module12/Java/src/Traversals/BreadthFirstTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module12/Java/src/Traversals/DepthFirstTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/CPP/MergeSort/MergeSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/CPP/MergeSort/MergeSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/CPP/Module2Workspace.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/CPP/QuickSort/QuickSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/CPP/QuickSort/QuickSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/CPP/RecursiveBubbleSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/CPP/DoublyLinkedList/1_DLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/CPP/DoublyLinkedList/2_Insert.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/CPP/DoublyLinkedList/3_Removal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/CPP/DoublyLinkedList/4_Retrieval.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/CPP/ListADT/ListDemo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/CPP/ListADT/ListInsert.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/CPP/ListADT/ListRemove.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module3/Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Java/src/ArrayListADT/ArrayListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module3/Java/src/LinkedListADT/LinkedListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/CircularLinkedList/1_CLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/CircularLinkedList/2_Insert.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/CircularLinkedList/3_Removal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/CircularLinkedList/4_Retrieval.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListFunctions/1_SizeSLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListFunctions/2_SizeDLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListFunctions/3_SizeCLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListFunctions/4_MiddleLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListFunctions/5_LinearSearch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListMiddle/1_MiddleDLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListMiddle/2_MiddleCLinkedList.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListSorting/1_BubbleSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module4/CPP/ListSorting/2_InsertionSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/CPP/Deques/1_Deque.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/CPP/Module5Workspace.code-workspace" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module5/CPP/Module5Workspace.code-workspace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/CPP/Queues/1_Queue.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/CPP/Queues/2_CircularQueue.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/CPP/Stacks/1_Stack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/CPP/Stacks/2_Stack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/CPP/Stacks/3_StackLL.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/Directory1/Directory2/Directory4/EmptyFileA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/Directory1/Directory2/Directory4/EmptyFileB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/Directory1/Directory3/Directory5/EmptyFileD.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/Directory1/Directory3/Directory6/EmptyFileE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/Directory1/Directory3/Directory6/EmptyFileF.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/Directory1/Directory3/EmptyFileC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/Module5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/out/production/Module5/BreadthFirstTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/out/production/Module5/DepthFirstTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/out/production/Module5/META-INF/Module5.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/src/BreadthFirstTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Java/src/DepthFirstTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Python/Deques.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Python/Queues.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module5/Python/Stacks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/1_SimpleHashTable/HTDemo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/1_SimpleHashTable/HashTable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/2_HashingComparisons/ASCIIDecimal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/2_HashingComparisons/Test1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/2_HashingComparisons/Test2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/2_HashingComparisons/Test3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/2_HashingComparisons/Test4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/3_HashingStrings/HTDemo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/3_HashingStrings/HashTableSKeys.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/4_ClosedAddressing/Bucket.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/4_ClosedAddressing/HTDemo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/4_ClosedAddressing/HashTableChaining.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/4_ClosedAddressing/KVP.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/5_OpenAddressing/HTDemo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/5_OpenAddressing/HashTable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/6_Resizing/HTDemo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/6_Resizing/HashTable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/CPP/Module6Workspace.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Java/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module6/Java/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Java/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module6/Java/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module6/Java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module6/Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Java/Module6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Java/src/HashMapDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Java/src/HashTableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Python/dictionary_basics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Python/dictionary_copies_and_merging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Python/dictionary_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Python/dictionary_kvps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module6/Python/dictionary_loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/1_BinaryTree/BinaryTree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/1_BinaryTree/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/2_BinarySearchTree/BST.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/2_BinarySearchTree/BSTTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/2_BinarySearchTree/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/2_BinarySearchTree/Traversal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/3_N-aryTrees/NaryTree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/3_N-aryTrees/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module7/CPP/Module7Workspace.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/AVLTree/AVLTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/AVLTree/AVLTest2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/AVLTree/AVLTest3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/AVLTree/AVLTree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/AVLTree/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/AVLTree/Traversal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/Module8Workspace.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/RedBlackTree/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/RedBlackTree/RBTest1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/RedBlackTree/RBTest2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/RedBlackTree/RBTree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module8/CPP/RedBlackTree/Traversal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/AVLTree/AVLTest.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/AVLTree/AVLTest2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/AVLTree/AVLTest3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/AVLTree/AVLTree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/AVLTree/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/AVLTree/Traversal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/Module9Workspace.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/RedBlackTree/Node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/RedBlackTree/RBTest1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/RedBlackTree/RBTest2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/RedBlackTree/RBTree.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module9/CPP/RedBlackTree/Traversal.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XamXYaP4ry4H5WIDAZPx2w81tq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.TreeDemo2">
+    <configuration name="TreeDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeDemo1" />
+      <module name="Module10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeDemo2" />
+      <module name="Module10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TreeDemo2" />
+        <item itemvalue="Application.TreeDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="689b1920-c7f6-4100-acb9-1f36c67ee6ec" name="Changes" comment="" />
+      <created>1698875606410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698875606410</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
